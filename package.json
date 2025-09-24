@@ -1,0 +1,12 @@
+{
+  "name": "portfolio-marten",
+  "version": "1.0.0",
+  "description": "Barrierefreundliches Portfolio von Marten Kirschenhofer",
+  "scripts": {
+    "sass": "sass --no-source-map scss:css --style=expanded",
+    "sass:watch": "sass --watch scss:css --style=expanded"
+  },
+  "devDependencies": {
+    "sass": "^1.93.0"
+  }
+}
